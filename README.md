@@ -1,2 +1,2 @@
-# learning-about-version-control
-Individual Assignment #1 for DSCI 522
+# Learning about Version Control
+Author: Derek Rodgers
